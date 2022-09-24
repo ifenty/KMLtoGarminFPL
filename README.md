@@ -17,9 +17,8 @@ Date: 2022-09-24
 
 To transfer FPL files to a Garmin GNS unit via card, you need the special Garmin card reader/writer and the FlightPlan Migrator software. The card and reader seem to be proprietory. Even after installing the drivers, the card reader with the card inserted do not appear as external drives from Windows (unlike a typical USB drive, for example). The Garmin FlightPlan Migrator software lets you load FPL files on the card into one of 19 spaces.
 
-Garmin card reader/writers are available from Amazon for about $70 (as of September 2022). https://www.amazon.com/dp/B01JTFZPFG?psc=1&ref=ppx_yo2ov_dt_b_product_details
+As of September 2022, Garmin card reader/writers are available from Amazon for about $70 https://www.amazon.com/dp/B01JTFZPFG?psc=1&ref=ppx_yo2ov_dt_b_product_details and the cards can be purchased from Garmin for $375: https://www.garmin.com/en-US/p/35229
 
-I don't know if the cards can be purchased separately. Perhaps they are only sold in the Garmin FlightPlan Migrator Kit.
 
 
 ## Instructions ##
@@ -33,7 +32,7 @@ I don't know if the cards can be purchased separately. Perhaps they are only sol
 7. Insert the card with the new FPL file into the slot on the right side of the Garmin GNS unit.
 8. Power on the Garmin GNS unit.
 8. Using the Garmin menu system, load the waypoints and flight plan. 
-9. << IMPORTANT >> Turn off the Garmin GNS unit, remove the card with the FPL file, replace it with the original card, and then turn the Garmin GNS unit on
+9. **IMPORTANT** Turn off the Garmin GNS unit, remove the card with the FPL file, replace it with the original card, and then turn the Garmin GNS unit on
 10. Confirm that the new waypoints and flight plan are loaded.
 
 
