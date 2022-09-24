@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
-	<created>2022-09-23T13:42:17Z</created>
+	<created>2022-09-24T00:40:54Z</created>
 	<waypoint-table>
 		<waypoint>
 			<identifier>B01</identifier>

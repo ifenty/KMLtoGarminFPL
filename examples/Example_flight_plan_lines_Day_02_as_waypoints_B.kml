@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>Example_flight_plan_lines_Day_02_as_waypoints_B.kml</name>
+	<name>./examples/Example_flight_plan_lines_Day_02_as_waypoints_B.kml</name>
 	<Folder>
-		<name>Example_flight_plan_lines_Day_02_as_waypoints_B.kml</name>
+		<name>./examples/Example_flight_plan_lines_Day_02_as_waypoints_B.kml</name>
 <Placemark><name>B01</name><Point><coordinates>-148.405,70.190,0</coordinates></Point></Placemark>
 <Placemark><name>B02</name><Point><coordinates>-149.963,71.322,0</coordinates></Point></Placemark>
 <Placemark><name>B03</name><Point><coordinates>-149.969,72.999,0</coordinates></Point></Placemark>
