@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Example_flight_plan_lines_as_waypoints_B.kml</name>
+	<Folder>
+		<name>Example_flight_plan_lines_as_waypoints_B.kml</name>
+<Placemark><name>B01</name><Point><coordinates>-148.409,70.188,0</coordinates></Point></Placemark>
+<Placemark><name>B02</name><Point><coordinates>-150.186,71.364,0</coordinates></Point></Placemark>
+<Placemark><name>B03</name><Point><coordinates>-151.868,71.683,0</coordinates></Point></Placemark>
+<Placemark><name>B04</name><Point><coordinates>-151.786,71.714,0</coordinates></Point></Placemark>
+<Placemark><name>B05</name><Point><coordinates>-150.111,71.396,0</coordinates></Point></Placemark>
+<Placemark><name>B06</name><Point><coordinates>-150.026,71.430,0</coordinates></Point></Placemark>
+<Placemark><name>B07</name><Point><coordinates>-151.701,71.745,0</coordinates></Point></Placemark>
+<Placemark><name>B08</name><Point><coordinates>-151.611,71.776,0</coordinates></Point></Placemark>
+<Placemark><name>B09</name><Point><coordinates>-149.938,71.465,0</coordinates></Point></Placemark>
+<Placemark><name>B10</name><Point><coordinates>-149.844,71.500,0</coordinates></Point></Placemark>
+<Placemark><name>B11</name><Point><coordinates>-151.526,71.808,0</coordinates></Point></Placemark>
+<Placemark><name>B12</name><Point><coordinates>-151.438,71.839,0</coordinates></Point></Placemark>
+<Placemark><name>B13</name><Point><coordinates>-149.756,71.536,0</coordinates></Point></Placemark>
+<Placemark><name>B14</name><Point><coordinates>-149.674,71.571,0</coordinates></Point></Placemark>
+<Placemark><name>B15</name><Point><coordinates>-151.356,71.869,0</coordinates></Point></Placemark>
+<Placemark><name>B16</name><Point><coordinates>-151.259,71.903,0</coordinates></Point></Placemark>
+<Placemark><name>B17</name><Point><coordinates>-149.586,71.605,0</coordinates></Point></Placemark>
+<Placemark><name>B18</name><Point><coordinates>-149.504,71.637,0</coordinates></Point></Placemark>
+<Placemark><name>B19</name><Point><coordinates>-151.164,71.938,0</coordinates></Point></Placemark>
+<Placemark><name>B20</name><Point><coordinates>-151.083,71.970,0</coordinates></Point></Placemark>
+<Placemark><name>B21</name><Point><coordinates>-149.416,71.673,0</coordinates></Point></Placemark>
+<Placemark><name>B22</name><Point><coordinates>-149.340,71.702,0</coordinates></Point></Placemark>
+<Placemark><name>B23</name><Point><coordinates>-150.998,72.000,0</coordinates></Point></Placemark>
+<Placemark><name>B24</name><Point><coordinates>-150.903,72.031,0</coordinates></Point></Placemark>
+<Placemark><name>B25</name><Point><coordinates>-149.259,71.731,0</coordinates></Point></Placemark>
+<Placemark><name>B26</name><Point><coordinates>-149.183,71.761,0</coordinates></Point></Placemark>
+<Placemark><name>B27</name><Point><coordinates>-150.825,72.060,0</coordinates></Point></Placemark>
+<Placemark><name>B28</name><Point><coordinates>-150.752,72.089,0</coordinates></Point></Placemark>
+<Placemark><name>B29</name><Point><coordinates>-149.105,71.792,0</coordinates></Point></Placemark>
+<Placemark><name>B30</name><Point><coordinates>-148.410,70.184,0</coordinates></Point></Placemark>
+	</Folder>
+</Document>
+</kml>

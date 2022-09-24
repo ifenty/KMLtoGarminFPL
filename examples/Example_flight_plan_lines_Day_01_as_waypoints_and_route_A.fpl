@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+	<created>2022-09-23T23:18:52Z</created>
+	<waypoint-table>
+		<waypoint>
+			<identifier>A01</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>70.187935</lat>
+			<lon>-148.409485</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A02</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.364105</lat>
+			<lon>-150.185883</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A03</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.682693</lat>
+			<lon>-151.868210</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A04</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.713837</lat>
+			<lon>-151.786148</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A05</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.395592</lat>
+			<lon>-150.110901</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A06</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.429672</lat>
+			<lon>-150.025986</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A07</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.744919</lat>
+			<lon>-151.700653</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A08</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.776054</lat>
+			<lon>-151.610992</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A09</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.464699</lat>
+			<lon>-149.937943</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A10</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.499657</lat>
+			<lon>-149.843597</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A11</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.807503</lat>
+			<lon>-151.526093</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A12</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.838890</lat>
+			<lon>-151.438034</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A13</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.535545</lat>
+			<lon>-149.755539</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A14</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.571365</lat>
+			<lon>-149.673767</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A15</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.869255</lat>
+			<lon>-151.356262</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A16</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.903473</lat>
+			<lon>-151.258774</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A17</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.605141</lat>
+			<lon>-149.585709</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A18</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.636871</lat>
+			<lon>-149.503952</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A19</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.937637</lat>
+			<lon>-151.164429</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A20</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.969788</lat>
+			<lon>-151.082657</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A21</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.672501</lat>
+			<lon>-149.415894</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A22</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.702148</lat>
+			<lon>-149.340408</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A23</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.999931</lat>
+			<lon>-150.997757</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A24</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>72.031006</lat>
+			<lon>-150.903412</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A25</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.730759</lat>
+			<lon>-149.258652</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A26</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.761299</lat>
+			<lon>-149.183167</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A27</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>72.060089</lat>
+			<lon>-150.824783</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A28</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>72.089127</lat>
+			<lon>-150.752457</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A29</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>71.791786</lat>
+			<lon>-149.104553</lon>
+			<comment></comment>
+		</waypoint>
+		<waypoint>
+			<identifier>A30</identifier>
+			<type>USER WAYPOINT</type>
+			<country-code></country-code>
+			<lat>70.184280</lat>
+			<lon>-148.409546</lon>
+			<comment></comment>
+		</waypoint>
+	</waypoint-table>
+	<route>
+		<route-name>ROUTEA</route-name>
+		<flight-plan-index>1</flight-plan-index>
+		<route-point>
+			<waypoint-identifier>A01</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A02</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A03</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A04</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A05</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A06</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A07</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A08</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A09</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A10</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A11</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A12</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A13</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A14</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A15</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A16</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A17</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A18</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A19</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A20</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A21</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A22</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A23</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A24</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A25</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A26</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A27</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A28</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A29</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+		<route-point>
+			<waypoint-identifier>A30</waypoint-identifier>
+			<waypoint-type>USER WAYPOINT</waypoint-type>
+			<waypoint-country-code></waypoint-country-code>
+		</route-point>
+	</route>
+</flight-plan>
