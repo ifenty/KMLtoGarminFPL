@@ -13,7 +13,7 @@ Date: 2022-09-24
 1. Computer with a windows operating system 
 2. Garmin FlightPlan Migrator Kit: https://www.garmin.com/en-US/p/35228/pn/010-11308-20
 
-** A note about the Garmin FlightPlan Migrator Hardware and Software **
+### A note about the Garmin FlightPlan Migrator Hardware and Software ###
 
 To transfer FPL files to a Garmin GNS unit via card, you need the special Garmin card reader/writer and the FlightPlan Migrator software. The card and reader seem to be proprietory. Even after installing the drivers, the card reader with the card inserted do not appear as external drives from Windows (unlike a typical USB drive, for example). The Garmin FlightPlan Migrator software lets you load FPL files on the card into one of 19 spaces.
 
