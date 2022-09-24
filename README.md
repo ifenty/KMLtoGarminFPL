@@ -214,5 +214,5 @@ Write FPL file: ./examples/Example_flight_plan_lines_Day_02_as_waypoints_and_rou
 
 ```
 
-** Good Luck!! **
+**Good Luck!!
 
